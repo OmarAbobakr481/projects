@@ -86,27 +86,3 @@ while gameRunning:
     checkTie(board)
     switchPlayer()
 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
